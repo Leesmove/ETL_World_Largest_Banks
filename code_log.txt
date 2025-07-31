@@ -1,0 +1,34 @@
+2025-07-30 17:41:07 : Preliminaries complete. Initiating ETL process
+2025-07-30 17:45:49 : Preliminaries complete. Initiating ETL process
+2025-07-30 17:57:18 : Preliminaries complete. Initiating ETL process
+2025-07-30 18:01:43 : Preliminaries complete. Initiating ETL process
+2025-07-30 18:01:44 : Data extraction complete. Initiating Transformation process
+2025-07-30 18:03:11 : Preliminaries complete. Initiating ETL process
+2025-07-30 18:06:05 : Preliminaries complete. Initiating ETL process
+2025-07-30 18:12:02 : Preliminaries complete. Initiating ETL process
+2025-07-30 18:13:36 : Preliminaries complete. Initiating ETL process
+2025-07-30 18:14:11 : Preliminaries complete. Initiating ETL process
+2025-07-30 18:18:10 : Preliminaries complete. Initiating ETL process
+2025-07-30 18:30:57 : Preliminaries complete. Initiating ETL process
+2025-07-30 18:38:17 : Preliminaries complete. Initiating ETL process
+2025-07-30 18:39:13 : Preliminaries complete. Initiating ETL process
+2025-07-30 18:42:27 : Preliminaries complete. Initiating ETL process
+2025-07-30 18:43:44 : Preliminaries complete. Initiating ETL process
+2025-07-30 18:47:24 : Preliminaries complete. Initiating ETL process
+2025-07-30 18:48:10 : Preliminaries complete. Initiating ETL process
+2025-07-30 18:50:15 : Preliminaries complete. Initiating ETL process
+2025-07-30 18:50:54 : Preliminaries complete. Initiating ETL process
+2025-07-30 18:52:22 : Preliminaries complete. Initiating ETL process
+2025-07-31 08:39:25 : Preliminaries complete. Initiating ETL process
+2025-07-31 08:51:35.722182 : Preliminaries complete. Initiating ETL process
+2025-07-31 08:55:49.644430 : Preliminaries complete. Initiating ETL process
+2025-07-31 09:03:15.730486 : Preliminaries complete. Initiating ETL process
+2025-07-31 09:07:12.687985 : Preliminaries complete. Initiating ETL process
+2025-07-31 09:12:12.623499 : 🔄 Preliminares completos. Iniciando proceso ETL
+2025-07-31 09:12:15.000359 : ✅ Datos extraídos. Iniciando transformación
+2025-07-31 09:12:15.031058 : ✅ Transformación completa. Guardando resultados
+2025-07-31 09:12:15.049663 : 📁 Datos guardados como CSV
+2025-07-31 09:12:15.065741 : 🔌 Conexión a base de datos establecida
+2025-07-31 09:12:15.087681 : 🗃️ Datos cargados en tabla de base de datos
+2025-07-31 09:12:15.139528 : 📊 Consultas ejecutadas correctamente
+2025-07-31 09:12:15.139528 : ✅ Conexión cerrada. Proceso completado.
